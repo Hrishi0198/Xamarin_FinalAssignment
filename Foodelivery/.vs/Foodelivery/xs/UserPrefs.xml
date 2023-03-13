@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{C695488E-E626-405B-A752-48D2365D2420}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.10.1_WXGA_Tablet_API_30" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Foodelivery.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Foodelivery/Foodelivery/Views/LoginPage.xaml">
+    <Files>
+      <File FileName="Foodelivery/Foodelivery/Views/LoginPage.xaml" Line="11" Column="14" />
+      <File FileName="Foodelivery/Foodelivery/Views/LoginPage.xaml.cs" Line="9" Column="27" />
+      <File FileName="Foodelivery/Foodelivery/Views/MainPage.xaml" Line="11" Column="14" />
+      <File FileName="Foodelivery/Foodelivery/Views/MainPage.xaml.cs" Line="66" Column="10" />
+      <File FileName="Foodelivery/Foodelivery/Views/MapPage.xaml" Line="11" Column="24" />
+      <File FileName="Foodelivery/Foodelivery/Views/MapPage.xaml.cs" Line="13" Column="54" />
+      <File FileName="Foodelivery/Foodelivery/Views/RegisterPage.xaml" Line="42" Column="23" />
+      <File FileName="Foodelivery/Foodelivery/Views/RegisterPage.xaml.cs" Line="60" Column="1" />
+      <File FileName="Foodelivery/Foodelivery/Views/UpdatePage.xaml" Line="46" Column="23" />
+      <File FileName="Foodelivery/Foodelivery/Views/UpdatePage.xaml.cs" Line="22" Column="5" />
+      <File FileName="Foodelivery/Foodelivery/ViewModels/UpdatePageModel.cs" Line="6" Column="22" />
+      <File FileName="Foodelivery/Foodelivery/Services/HttpServices.cs" Line="8" Column="7" />
+      <File FileName="Foodelivery/Foodelivery/ViewModels/LoginPageModel.cs" Line="6" Column="22" />
+      <File FileName="Foodelivery/Foodelivery/ViewModels/RigesterPageModel.cs" Line="6" Column="22" />
+      <File FileName="Foodelivery/Foodelivery/Views/CheckOutPage.xaml" Line="10" Column="23" />
+      <File FileName="Foodelivery/Foodelivery/Views/CheckOutPage.xaml.cs" Line="10" Column="32" />
+      <File FileName="Foodelivery/Foodelivery/Services/IHttpServices.cs" Line="5" Column="22" />
+      <File FileName="Foodelivery/Foodelivery/Models/Login.cs" Line="11" Column="6" />
+      <File FileName="Foodelivery/Foodelivery/Models/FoodItems.cs" Line="15" Column="1" />
+      <File FileName="Foodelivery/Foodelivery/Models/Restaurant.cs" Line="15" Column="6" />
+      <File FileName="Foodelivery/Foodelivery/Models/User.cs" Line="21" Column="1" />
+      <File FileName="Foodelivery/Foodelivery/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="Foodelivery/Foodelivery/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Foodelivery" expanded="True">
+            <Node name="Foodelivery" expanded="True">
+              <Node name="Views" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Foodelivery.Android FirstBuild="True" PreferredExecutionTarget="Android.10.1_WXGA_Tablet_API_30" />
+  <MonoDevelop.Ide.ItemProperties.Foodelivery FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
